@@ -22,7 +22,7 @@ github: https://github.com/karthiksuki
 
 Restaurant website link: http://website.github.io/
 
-Contact me:
+Contact:
 
 - Email: karthikeyan2021sch@gmail.com
 - Linkedin Profile: https://www.linkedin.com/in/karthikeyan-g-86889720b/
