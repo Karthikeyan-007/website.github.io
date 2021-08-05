@@ -1,5 +1,3 @@
-## website.github.io
-
 Hello Welcome to this github repository
 
 This is an Restaurant Website 
@@ -7,7 +5,7 @@ This is an Restaurant Website
 Instruction to clone this website 
 
 Step 1: open a terminal or cmd:
-  `git clone https://github.com/Karthikeyan-007/website.github.io.git`
+  `git clone https://github.com/karthiksuki/website.github.io.git`
 
 > OR ELSE 
 
