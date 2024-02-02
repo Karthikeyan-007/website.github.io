@@ -14,7 +14,7 @@ You can even download the zip files and extract them
 ### Thank you
 
 Created by,
-Karthikeyan.G 
+Karthikeyan Ganesh
 
 github: https://github.com/karthiksuki
 
@@ -22,5 +22,5 @@ Restaurant website link: http://website.github.io/
 
 Contact:
 
-- Email: karthikeyan2021sch@gmail.com
-- Linkedin Profile: https://www.linkedin.com/in/karthikeyan-g-86889720b/
+- Email: karthikeyangan05@gmail.com
+- Linkedin Profile: https://www.linkedin.com/in/karthikeyan-g7/
